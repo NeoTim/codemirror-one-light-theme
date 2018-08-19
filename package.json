@@ -2,6 +2,7 @@
   "name": "codemirror-one-light-theme",
   "version": "1.0.0",
   "description": "codemirror one light theme",
+  "main": "index.js",
   "scripts": {
     "release": "standard-version"
   },
