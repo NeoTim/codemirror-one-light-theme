@@ -1,0 +1,21 @@
+{
+  "name": "codemirror-one-light-theme",
+  "version": "1.0.0",
+  "description": "codemirror one light theme",
+  "scripts": {
+    "release": "standard-version"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/forsigner/codemirror-one-light-theme.git"
+  },
+  "author": "forsigner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/forsigner/codemirror-one-light-theme/issues"
+  },
+  "homepage": "https://github.com/forsigner/codemirror-one-light-theme#readme",
+  "devDependencies": {
+    "standard-version": "^4.4.0"
+  }
+}
